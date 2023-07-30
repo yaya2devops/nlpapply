@@ -1,0 +1,322 @@
+[
+  {
+    "id": "73020c9e-e85a-4f3b-a704-3090203bbefa",
+    "data": [
+      {
+        "text": "can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "meta": "@tier",
+        "alias": "tier",
+        "userDefined": false
+      },
+      {
+        "text": " service? i want my pin to be ",
+        "userDefined": false
+      },
+      {
+        "text": "4343",
+        "meta": "@pin",
+        "alias": "pin",
+        "userDefined": false
+      },
+      {
+        "text": ". my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jessica",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Masters",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb9b6b21-c98c-4ade-bcf3-b4c394faac2b",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Johnny",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Johnson",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " and i\u0027d like an account for ",
+        "userDefined": false
+      },
+      {
+        "text": "9255551212",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "silver",
+        "meta": "@tier",
+        "alias": "tier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff998e0d-4671-48b1-a08b-4f2c42693b66",
+    "data": [
+      {
+        "text": "I want to get a subscription to your service for ",
+        "userDefined": false
+      },
+      {
+        "text": "George",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Smith",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " for phone number ",
+        "userDefined": false
+      },
+      {
+        "text": "4155551212",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gold",
+        "meta": "@tier",
+        "alias": "tier",
+        "userDefined": true
+      },
+      {
+        "text": " tier with pin ",
+        "userDefined": false
+      },
+      {
+        "text": "1111",
+        "meta": "@pin",
+        "alias": "pin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a948eff5-0e58-4795-ba0d-55cf1666da28",
+    "data": [
+      {
+        "text": "can i get the ",
+        "userDefined": false
+      },
+      {
+        "text": "platinum",
+        "meta": "@tier",
+        "alias": "tier",
+        "userDefined": true
+      },
+      {
+        "text": " subscription?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30952ce9-ef0a-4385-a171-8f24d1c11c89",
+    "data": [
+      {
+        "text": "how",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do i get a subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc06e24e-027f-4b4c-9dae-25124ebae699",
+    "data": [
+      {
+        "text": "sign me up please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c63a7a-665f-45c2-bd07-b41c4985eaaf",
+    "data": [
+      {
+        "text": "i\u0027m interested in getting a subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68756dda-566d-4f18-af1a-edd82b822eb4",
+    "data": [
+      {
+        "text": "what do you need to get me signed up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec99d3e6-6506-45c9-89e5-09c1081c3aff",
+    "data": [
+      {
+        "text": "i want to sign up for service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc2ab4b3-a200-4b95-afa8-aa65c00b0b7b",
+    "data": [
+      {
+        "text": "can you please sign me up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30827ed4-7e95-44c7-89d4-86c9e538247b",
+    "data": [
+      {
+        "text": "what do I do if I want to get subscribed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16b462b9-2170-47ee-869c-c1c38a9d7163",
+    "data": [
+      {
+        "text": "How",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " can I subscribe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffb50fe0-f7bd-42a5-9db6-03ea7329e90b",
+    "data": [
+      {
+        "text": "I\u0027d like to get a subscription for the service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

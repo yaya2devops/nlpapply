@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3207425c-512f-4216-9c30-6887b2584311",
+    "data": [
+      {
+        "text": "I\u0027m gonna need to discontinue service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef6a529-35a7-402c-a741-1c0150bffc30",
+    "data": [
+      {
+        "text": "for my user i\u0027d like to unsubscribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2f3e316-0806-4beb-833e-3967276cbb2c",
+    "data": [
+      {
+        "text": "please unsubscribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8708aa0-7f08-4adb-bae6-285df0bf5af3",
+    "data": [
+      {
+        "text": "can you unsubscribe me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d2e4fee-3389-409c-a6b4-83bb2afe2403",
+    "data": [
+      {
+        "text": "i don\u0027t want to be subscribed anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd574ea9-3c79-4f27-8ee5-b0deed2d5d66",
+    "data": [
+      {
+        "text": "how to i cancel the subscription?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2983768-b4c9-463a-8682-8b96637d9ca7",
+    "data": [
+      {
+        "text": "i\u0027d like to unsubscribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7ff666e-bc9e-40d3-9ca8-7d95dc03f768",
+    "data": [
+      {
+        "text": "i no longer want the subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbc0fdf5-b2dd-4365-8059-03b5db0eba66",
+    "data": [
+      {
+        "text": "i\u0027d like to cancel my subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6fa10fe-a29d-4bad-95da-777790c2ab4e",
+    "data": [
+      {
+        "text": "i want to unsubscribe from the service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

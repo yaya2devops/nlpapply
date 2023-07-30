@@ -1,0 +1,32 @@
+[
+  {
+    "value": "@sys.given-name",
+    "synonyms": [
+      "@sys.given-name"
+    ]
+  },
+  {
+    "value": "@sys.last-name",
+    "synonyms": [
+      "@sys.last-name"
+    ]
+  },
+  {
+    "value": "@sys.email",
+    "synonyms": [
+      "@sys.email"
+    ]
+  },
+  {
+    "value": "@pin",
+    "synonyms": [
+      "@pin"
+    ]
+  },
+  {
+    "value": "@sys.phone-number",
+    "synonyms": [
+      "@sys.phone-number"
+    ]
+  }
+]
