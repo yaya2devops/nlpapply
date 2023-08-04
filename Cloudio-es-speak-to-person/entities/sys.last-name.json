@@ -1,0 +1,9 @@
+{
+  "id": "60a3dd6c-b233-4146-af23-0b6699ca0804",
+  "name": "sys.last-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

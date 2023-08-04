@@ -1,0 +1,83 @@
+[
+  {
+    "id": "5a2f63c8-0dfd-4698-84e7-7e36887e28e0",
+    "data": [
+      {
+        "text": "I want my pin to be ",
+        "userDefined": false
+      },
+      {
+        "text": "3333",
+        "alias": "pin",
+        "meta": "@pin",
+        "userDefined": false
+      },
+      {
+        "text": " now please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4aafd4e-f9db-4a43-839f-f785afb0df24",
+    "data": [
+      {
+        "text": "Please update my pin to ",
+        "userDefined": false
+      },
+      {
+        "text": "1234",
+        "alias": "pin",
+        "meta": "@pin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecefbd3f-ed15-421c-956e-e9f450764e83",
+    "data": [
+      {
+        "text": "I\u0027d like to have a different secret code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e391fd98-c80a-40c3-be93-5c66f6092229",
+    "data": [
+      {
+        "text": "Can I change my pin to something ",
+        "userDefined": false
+      },
+      {
+        "text": "else?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f38fd4a5-dff6-465a-a0fe-cb00d9a299db",
+    "data": [
+      {
+        "text": "How do I reset my pin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

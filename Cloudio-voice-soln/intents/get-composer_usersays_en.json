@@ -1,0 +1,200 @@
+[
+  {
+    "id": "3625797c-4ed5-4231-9d30-3cf9219f8e3f",
+    "data": [
+      {
+        "text": "Are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "James Taylor",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " songs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f4578ed-be05-4e55-89e1-a7e7c36159e0",
+    "data": [
+      {
+        "text": "What about a Ted talk with ",
+        "userDefined": false
+      },
+      {
+        "text": "Barack Obama",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " in it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5424a6a-ca6e-4298-a32e-f264f8ff79b2",
+    "data": [
+      {
+        "text": "Do I have anything by ",
+        "userDefined": false
+      },
+      {
+        "text": "The Dalai Lama",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd013489-99b4-4dce-b453-8d6d5f7286f1",
+    "data": [
+      {
+        "text": "Tell me if there\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "60 Minutes",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " broadcast in there.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ab51e68-50d5-4357-a3ea-48fc799be504",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Donald Trump",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " noises do I have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "813a6234-d97a-4f8a-917a-eb2bf702b5d5",
+    "data": [
+      {
+        "text": "List ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Hot Chili Pepper",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " songs.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40e0f5e1-5fbd-4c07-9a49-aebb9965342e",
+    "data": [
+      {
+        "text": "Let me know of any ",
+        "userDefined": false
+      },
+      {
+        "text": "Brene Brown",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": " podcasts.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fb1aab2-b42d-4ec6-a2b9-5c3fee42804b",
+    "data": [
+      {
+        "text": "Is there anything from ",
+        "userDefined": false
+      },
+      {
+        "text": "Ladysmith Black Mambazo",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9859c9e5-b262-4187-b58b-f6ed932e1d9c",
+    "data": [
+      {
+        "text": "What\u0027s songs in my playlist are by ",
+        "userDefined": false
+      },
+      {
+        "text": "The Beatles",
+        "alias": "composer",
+        "meta": "@composer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

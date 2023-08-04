@@ -1,0 +1,9 @@
+{
+  "id": "f0fa8565-fa8a-410f-b232-196a4d133175",
+  "name": "genre",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

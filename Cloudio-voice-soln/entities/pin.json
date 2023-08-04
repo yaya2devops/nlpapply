@@ -1,0 +1,9 @@
+{
+  "id": "e9a8214a-f2ed-47ab-940f-cf88e115f944",
+  "name": "pin",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

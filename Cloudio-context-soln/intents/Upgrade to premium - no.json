@@ -1,0 +1,45 @@
+{
+  "id": "5bf6186c-b72e-45a3-abb4-fa055e192ae6",
+  "name": "Upgrade to premium - no",
+  "auto": true,
+  "contexts": [
+    "servicesubscribe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "servicesubscribe.servicesubscribe-no",
+      "affectedContexts": [
+        {
+          "name": "servicesubscribe-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "serviceunsubscribe-followup",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No problem. I\u0027ll leave your account at standard service. Anything else today?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

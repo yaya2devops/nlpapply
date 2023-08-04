@@ -1,0 +1,142 @@
+[
+  {
+    "id": "56836ea5-3d28-4dd1-893a-b637dba69d85",
+    "data": [
+      {
+        "text": "can i get the ",
+        "userDefined": false
+      },
+      {
+        "text": "platinum",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": true
+      },
+      {
+        "text": " subscription?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a6f4fc8-cef1-4bfc-b225-9b5b138c1dfd",
+    "data": [
+      {
+        "text": "how",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do i get a subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f89ddb27-7206-4d22-a705-66b3cd83ee4a",
+    "data": [
+      {
+        "text": "sign me up please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbb1fd20-a86b-4e49-8e3a-aed23414680f",
+    "data": [
+      {
+        "text": "i\u0027m interested in getting a subscription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c4948bb-b487-41d7-8398-edbce8461315",
+    "data": [
+      {
+        "text": "what do you need to get me signed up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61637a3c-61cb-4e53-93c9-c79c64044832",
+    "data": [
+      {
+        "text": "i want to sign up for service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcb25bb4-4a89-45d1-866c-34cb81524014",
+    "data": [
+      {
+        "text": "can you please sign me up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f3b11f3-7376-4bee-add8-966d854c82ba",
+    "data": [
+      {
+        "text": "what do I do if I want to get subscribed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be166bff-2459-4f05-b8dd-e4dc3dd335c6",
+    "data": [
+      {
+        "text": "How",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " can I subscribe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac03b989-3538-433b-8513-69bf970b119c",
+    "data": [
+      {
+        "text": "I\u0027d like to get a subscription for the service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

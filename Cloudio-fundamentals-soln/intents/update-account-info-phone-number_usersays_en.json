@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6c3789f8-7849-471c-a41f-76c62b395137",
+    "data": [
+      {
+        "text": "Please update the number on my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20c48063-1e8d-4435-8c92-15f4be8b35a8",
+    "data": [
+      {
+        "text": "Phone has changed to ",
+        "userDefined": false
+      },
+      {
+        "text": "4153334444",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " can you please update it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11c80c25-b53a-4a66-92e0-7d752c743290",
+    "data": [
+      {
+        "text": "My number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baed65f6-a330-4e1b-ace2-074df94d276b",
+    "data": [
+      {
+        "text": "Can you change my phone number on my account to ",
+        "userDefined": false
+      },
+      {
+        "text": "9993332222",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e5fa8e-9b76-4543-9751-b9b8dff6b9e4",
+    "data": [
+      {
+        "text": "I need to update my phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

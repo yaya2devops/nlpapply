@@ -1,0 +1,36 @@
+{
+  "id": "238c11eb-152b-4588-8465-260b3f559b97",
+  "parentId": "c54f92b7-78f1-466e-9cbb-2b4b10ab6029",
+  "rootParentId": "c54f92b7-78f1-466e-9cbb-2b4b10ab6029",
+  "name": "Get 2 mos free - yes",
+  "auto": true,
+  "contexts": [
+    "servicesubscribe-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "servicesubscribe.servicesubscribe-yes.servicesubscribe-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You got it. 2 months free. Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

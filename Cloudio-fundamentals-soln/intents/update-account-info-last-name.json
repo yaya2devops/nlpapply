@@ -1,0 +1,68 @@
+{
+  "id": "b5765d9d-7798-4ade-83cf-bb63a6622261",
+  "name": "update-account-info-last-name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "25c9d66f-74cc-4299-a6b5-f22736a49004",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the new last name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d9f850d9-0c27-41b3-ac5e-3904ab27625c",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the phone number for the account?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your last name was updated to $last-name. Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

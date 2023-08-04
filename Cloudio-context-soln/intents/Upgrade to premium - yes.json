@@ -1,0 +1,40 @@
+{
+  "id": "c54f92b7-78f1-466e-9cbb-2b4b10ab6029",
+  "name": "Upgrade to premium - yes",
+  "auto": true,
+  "contexts": [
+    "servicesubscribe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "servicesubscribe.servicesubscribe-yes",
+      "affectedContexts": [
+        {
+          "name": "Upgradetopremium-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Excellent. By paying for 6 mos you can get 2 mos free. Take the deal?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

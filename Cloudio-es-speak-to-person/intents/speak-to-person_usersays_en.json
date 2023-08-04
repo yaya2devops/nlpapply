@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bc9699a3-e9c9-440c-ba2b-15c901c1e9b6",
+    "data": [
+      {
+        "text": "can i get a rep?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b73b1466-955c-412b-83fa-40bbae29db82",
+    "data": [
+      {
+        "text": "is there a customer service rep i can talk to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4be15900-1b58-4501-8a1c-e58e2c427897",
+    "data": [
+      {
+        "text": "please put me through to a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95d57159-f6fb-4aac-a70a-986094e26865",
+    "data": [
+      {
+        "text": "you suck",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d912b1e-fd62-4481-877b-05d9bcf1d3f7",
+    "data": [
+      {
+        "text": "i need to speak to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e39876ef-3d0a-40ab-92dd-b88c07fee7bf",
+    "data": [
+      {
+        "text": "representative please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eff07019-3b94-4379-82b3-e6e5e5ff605d",
+    "data": [
+      {
+        "text": "can i talk to a real person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16440b70-4510-4ffc-bc22-3b206d62b929",
+    "data": [
+      {
+        "text": "this is frustrating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

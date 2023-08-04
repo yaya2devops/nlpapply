@@ -1,0 +1,128 @@
+{
+  "id": "ffcbc1d9-5629-4ee5-bb2e-9fb4cb56e94e",
+  "name": "subscribe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "subscribe-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3a69558f-c9fa-43a5-b5f1-91e215306b8d",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your phone number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0d607a28-cb8b-4723-9260-91df99f4fe84",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your first name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a8d18584-2cbe-4602-b128-f55eccfd2a64",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your last name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e0b74dfd-ea7b-4059-a2c7-6d6d8faf7708",
+          "required": true,
+          "dataType": "@pin",
+          "name": "pin",
+          "value": "$pin",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What would you like your pin to be?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "71569b12-a422-4383-8c9a-c69356dafb9c",
+          "required": true,
+          "dataType": "@tier",
+          "name": "tier",
+          "value": "$tier",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which tier would you like? We have silver, gold, and platinum."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You\u0027re all set, $given-name. How would you like to get two months free by paying for six months up front?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

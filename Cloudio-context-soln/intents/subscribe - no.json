@@ -1,0 +1,36 @@
+{
+  "id": "c9639b38-cb7d-4235-8bd3-efa1384b85d9",
+  "parentId": "ffcbc1d9-5629-4ee5-bb2e-9fb4cb56e94e",
+  "rootParentId": "ffcbc1d9-5629-4ee5-bb2e-9fb4cb56e94e",
+  "name": "subscribe - no",
+  "auto": true,
+  "contexts": [
+    "subscribe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "subscribe.subscribe-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Got it! We\u0027ll leave out the two months free deal."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

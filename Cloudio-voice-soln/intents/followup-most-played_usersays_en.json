@@ -1,0 +1,170 @@
+[
+  {
+    "id": "5612f340-8a36-43c0-8c66-0740150dc6eb",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d7d63c8-68d0-4233-aeed-4b448116892d",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "classical",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccf02a4d-967e-4a91-9d12-cfb6804ab074",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "rock",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71b64847-ca42-4a51-bbc6-d2986a610a9a",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f80c3d20-f918-499f-a0fd-ad53a6ff7279",
+    "data": [
+      {
+        "text": "Pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98eea26d-cefc-4659-b5ed-fb25bb0c8c39",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "Pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fdcc6db-4653-424c-b254-a9cac37b2fb6",
+    "data": [
+      {
+        "text": "How bout ",
+        "userDefined": false
+      },
+      {
+        "text": "Classical",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "308370c9-2035-43d5-8e93-5dd7fb842a4c",
+    "data": [
+      {
+        "text": "What about ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

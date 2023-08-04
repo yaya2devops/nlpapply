@@ -1,0 +1,233 @@
+[
+  {
+    "id": "6d386671-ec14-4579-bed7-ad4469993606",
+    "data": [
+      {
+        "text": "What\u0027s most played in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03443015-869f-401b-904a-e11d4bd5e1f7",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " is more popular across the world?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90536297-d311-4325-8f46-7cbd391ff8d5",
+    "data": [
+      {
+        "text": "Which title gets the most air time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deab7744-ac52-462e-b900-7dd9917def93",
+    "data": [
+      {
+        "text": "What song in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " is played the most?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c9f7674-38d0-4279-a344-7ddf8e228a93",
+    "data": [
+      {
+        "text": "Most popular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7d171b2-12bf-4d9d-9312-f99060b1e561",
+    "data": [
+      {
+        "text": "Is there a favorite audio in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Metal",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " category?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3483ad17-a16f-4f43-9bf5-b76c60f95f83",
+    "data": [
+      {
+        "text": "For ",
+        "userDefined": false
+      },
+      {
+        "text": "Classical",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": ", what do people want to hear?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58da52b7-06a2-45e0-97a8-7ed98cfb8f21",
+    "data": [
+      {
+        "text": "I want to know what gets played the most number of times.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "078d3325-8adb-46cf-b230-1d0bfd38604f",
+    "data": [
+      {
+        "text": "Tell me which is most popular of all.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "268263d8-ffb7-4d5f-be02-ecea1d1eaa57",
+    "data": [
+      {
+        "text": "Is there a top ",
+        "userDefined": false
+      },
+      {
+        "text": "title",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " that gets played?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad98d199-375e-41bb-ad06-69b0fc86e7a6",
+    "data": [
+      {
+        "text": "In terms of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pop",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": ", is there a popular song?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b75e939-658e-48ed-8b5e-4c5d6ba4f8df",
+    "data": [
+      {
+        "text": "What\u0027s the most played song in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

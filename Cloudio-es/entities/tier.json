@@ -1,0 +1,9 @@
+{
+  "id": "a2b737e7-1e4f-44ca-b101-26d2687e68d6",
+  "name": "tier",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a4b9742d-c97b-4e95-ba15-7ae6f9aaa5b9",
+  "parentId": "c54f92b7-78f1-466e-9cbb-2b4b10ab6029",
+  "rootParentId": "c54f92b7-78f1-466e-9cbb-2b4b10ab6029",
+  "name": "Get 2 mos free - no",
+  "auto": true,
+  "contexts": [
+    "servicesubscribe-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "servicesubscribe.servicesubscribe-yes.servicesubscribe-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No problem. Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

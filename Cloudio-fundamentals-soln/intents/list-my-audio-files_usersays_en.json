@@ -1,0 +1,271 @@
+[
+  {
+    "id": "fd2119ed-9d75-4a4f-afd9-e8c621dfb807",
+    "data": [
+      {
+        "text": "Can I get everything ",
+        "userDefined": false
+      },
+      {
+        "text": "News",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c83a26f-996b-4761-88dc-1522edbcbcfb",
+    "data": [
+      {
+        "text": "Give me all the podcasts in ",
+        "userDefined": false
+      },
+      {
+        "text": "Popular Books",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eec78c00-6713-4a88-b8af-6e8ed0b8ce2a",
+    "data": [
+      {
+        "text": "Tell me which songs are in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pop",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e765bfd7-f5b5-43fc-a826-d701b044d191",
+    "data": [
+      {
+        "text": "What do I have on ",
+        "userDefined": false
+      },
+      {
+        "text": "Jazz",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fbb4171-8e10-43b1-9bdf-b707a492f7f9",
+    "data": [
+      {
+        "text": "Please list out the ",
+        "userDefined": false
+      },
+      {
+        "text": "Boogie",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " playlist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eea5511d-82c7-4b02-9843-af019fe15f92",
+    "data": [
+      {
+        "text": "What\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Classical",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " playlist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba6a32cd-1e6e-49a9-ba80-d133d86073a4",
+    "data": [
+      {
+        "text": "Can you tell me what\u0027s in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hiphop",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " playlist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f9fa3dd-1084-4d25-97e8-786903c0e7a8",
+    "data": [
+      {
+        "text": "For the ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " playlist, which songs are in it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "398589a8-198b-4198-8db1-6b081272f031",
+    "data": [
+      {
+        "text": "Give me the audio files in my ",
+        "userDefined": false
+      },
+      {
+        "text": "playlist",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36e5f4d8-8784-467b-b744-30fb8a3804bc",
+    "data": [
+      {
+        "text": "What\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Modern",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0cc2e10-8ee0-40d5-ad78-de7db28d2da0",
+    "data": [
+      {
+        "text": "I need to know if ",
+        "userDefined": false
+      },
+      {
+        "text": "70s",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " has any files in it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f45b43f5-36e7-49d2-99d0-93002285176a",
+    "data": [
+      {
+        "text": "List out the songs in ",
+        "userDefined": false
+      },
+      {
+        "text": "80s",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80115c4a-4599-4720-bce3-b0fae82e43f6",
+    "data": [
+      {
+        "text": "Please tell me what\u0027s on my playlist for ",
+        "userDefined": false
+      },
+      {
+        "text": "90s",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

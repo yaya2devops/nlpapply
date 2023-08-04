@@ -1,0 +1,9 @@
+{
+  "id": "3885b888-52b5-41c3-a9f6-efdd75327f13",
+  "name": "acct-info",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

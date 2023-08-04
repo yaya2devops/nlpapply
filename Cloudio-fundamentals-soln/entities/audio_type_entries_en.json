@@ -1,0 +1,32 @@
+[
+  {
+    "value": "song",
+    "synonyms": [
+      "song",
+      "songs"
+    ]
+  },
+  {
+    "value": "podcast",
+    "synonyms": [
+      "podcast",
+      "pod cast",
+      "podcasts"
+    ]
+  },
+  {
+    "value": "audiobook",
+    "synonyms": [
+      "audiobook",
+      "audio book",
+      "audio books"
+    ]
+  },
+  {
+    "value": "soundbyte",
+    "synonyms": [
+      "soundbyte",
+      "sound byte"
+    ]
+  }
+]

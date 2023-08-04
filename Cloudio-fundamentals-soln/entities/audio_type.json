@@ -1,0 +1,9 @@
+{
+  "id": "b7c28395-6893-4d34-998f-20167fd43994",
+  "name": "audio_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

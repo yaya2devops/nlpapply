@@ -1,0 +1,50 @@
+{
+  "id": "0214436a-38ca-4f15-a92a-9e79f281142a",
+  "name": "get-composer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7bd84d60-1294-4585-afc9-861b45ae8bdf",
+          "required": true,
+          "dataType": "@composer",
+          "name": "composer",
+          "value": "$composer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which composer?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The audio files for $composer are x. Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

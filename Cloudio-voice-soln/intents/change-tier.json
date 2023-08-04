@@ -1,0 +1,68 @@
+{
+  "id": "7c201f15-fe0a-4f13-8a0f-32358d1a53e4",
+  "name": "change-tier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "769fae7d-8d07-4764-9861-a4b376a172da",
+          "required": true,
+          "dataType": "@tier",
+          "name": "tier",
+          "value": "$tier",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which tier would you like? We offer silver, gold, and platinum where silver is the lowest and platinum is the highest level of service."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "99325adc-b386-4e6c-84db-65b21d651555",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the phone number for this account?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Got it. Your account is now set for the $tier tier of service."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

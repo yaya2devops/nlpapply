@@ -1,0 +1,37 @@
+[
+  {
+    "value": "artist",
+    "synonyms": [
+      "artist",
+      "artists"
+    ]
+  },
+  {
+    "value": "songwriter",
+    "synonyms": [
+      "songwriter",
+      "songwriters"
+    ]
+  },
+  {
+    "value": "writer",
+    "synonyms": [
+      "writer",
+      "writers"
+    ]
+  },
+  {
+    "value": "author",
+    "synonyms": [
+      "author",
+      "authors"
+    ]
+  },
+  {
+    "value": "presenter",
+    "synonyms": [
+      "presenter",
+      "presenters"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "value": "silver",
+    "synonyms": [
+      "cheapest",
+      "lowest level",
+      "basic",
+      "standard",
+      "level one",
+      "first tier",
+      "lowest"
+    ]
+  },
+  {
+    "value": "gold",
+    "synonyms": [
+      "level",
+      "mid tier",
+      "middle",
+      "medium priced",
+      "next step up",
+      "next level up",
+      "mid level",
+      "level two"
+    ]
+  },
+  {
+    "value": "platinum",
+    "synonyms": [
+      "platinum",
+      "highest level",
+      "best",
+      "top tier",
+      "level three",
+      "top level",
+      "premium",
+      "advanced",
+      "highest package"
+    ]
+  }
+]

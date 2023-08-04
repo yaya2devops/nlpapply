@@ -1,0 +1,56 @@
+{
+  "id": "aa0ec961-a1e9-4b03-9fd4-84c3d224b16f",
+  "name": "list-most-played",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "most-played",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f2140371-93e7-4d8d-9c10-b7b2f845e5e4",
+          "required": true,
+          "dataType": "@sys.music-genre",
+          "name": "music-genre",
+          "value": "$music-genre",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which genre?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The most played song in $music-genre is x. Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

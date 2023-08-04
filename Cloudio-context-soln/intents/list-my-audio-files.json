@@ -1,0 +1,50 @@
+{
+  "id": "0a517677-3608-4f4e-8755-3393fd00ce9a",
+  "name": "list-my-audio-files",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d78be87-cf11-4ece-8d4a-af52279f3787",
+          "required": true,
+          "dataType": "@playlist",
+          "name": "playlist",
+          "value": "$playlist",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which playlist?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The file names in $playlist are x. Anything else today?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

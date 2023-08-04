@@ -1,0 +1,50 @@
+{
+  "id": "925b394b-2f24-4f6a-baa9-aba344d53f7e",
+  "name": "unsubscribe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "serviceunsubscribe-followup",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "15",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "phoneNumber": "+14155551212",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK,  please give me a moment to transfer you to the next available agent who will be happy to help you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

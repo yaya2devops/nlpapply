@@ -1,0 +1,48 @@
+{
+  "id": "aa38ee32-c37e-4164-8842-f8478634012e",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "text": "Hi, I\u0027m Cloudio. How can I help today?",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi I\u0027m Cloudio. I can help you to subscribe to the service, update your account, or tell you the most played song by genre. Which can I help you with today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

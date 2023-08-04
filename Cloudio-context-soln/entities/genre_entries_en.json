@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Rock",
+    "synonyms": [
+      "Rock"
+    ]
+  },
+  {
+    "value": "Pop",
+    "synonyms": [
+      "Pop"
+    ]
+  },
+  {
+    "value": "Classical",
+    "synonyms": [
+      "Classical"
+    ]
+  }
+]

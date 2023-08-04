@@ -1,0 +1,284 @@
+[
+  {
+    "id": "cee54d59-f7cc-4116-a6ac-5e2fdce8b1e8",
+    "data": [
+      {
+        "text": "Can I get the next level up of service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40037a6f-a848-4ad8-8290-fff8e1bf5dd1",
+    "data": [
+      {
+        "text": "Can I get the ",
+        "userDefined": false
+      },
+      {
+        "text": "cheapest",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      },
+      {
+        "text": " account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4b30f8c-f64e-4503-95a7-a57bc132411f",
+    "data": [
+      {
+        "text": "I want to save money by lowering my account tier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "233f8689-620d-4dca-8c5b-7d8d64bef3fb",
+    "data": [
+      {
+        "text": "What do I do to get the ",
+        "userDefined": false
+      },
+      {
+        "text": "advanced",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      },
+      {
+        "text": " service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e58f2aa5-182b-4c22-ba6a-1a9b2f3a2b63",
+    "data": [
+      {
+        "text": "Please give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "highest package",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69ac7d2c-650a-47ec-8f5f-8034e228b313",
+    "data": [
+      {
+        "text": "Can I upgrade to the premium service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee08069-9015-4b91-8e5e-a4b83477c169",
+    "data": [
+      {
+        "text": "Don\u0027t you have a ",
+        "userDefined": false
+      },
+      {
+        "text": "silver",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " type service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5745f46-9357-4454-afe8-b5565ad0e3d8",
+    "data": [
+      {
+        "text": "I want the ",
+        "userDefined": false
+      },
+      {
+        "text": "lowest",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tier",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720fafd7-29ff-4fe7-8cd8-a7f0f22c1fac",
+    "data": [
+      {
+        "text": "Change to the next lower level account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3305f746-efb8-4190-9fc7-289c3c89df77",
+    "data": [
+      {
+        "text": "I wanted to downgrade my service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ae4fdbe-8734-4839-a273-4fc4d10621e0",
+    "data": [
+      {
+        "text": "Can I get extra service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67daeb62-f19f-47e4-be60-0f90c9321131",
+    "data": [
+      {
+        "text": "I\u0027d like the ",
+        "userDefined": false
+      },
+      {
+        "text": "basic",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      },
+      {
+        "text": " service level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be2b2fc1-d4d5-46a3-9ee4-2b35cc7cb29a",
+    "data": [
+      {
+        "text": "I need to get ",
+        "userDefined": false
+      },
+      {
+        "text": "gold",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": true
+      },
+      {
+        "text": " service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "664fa6d7-2b4f-48da-9d3f-1474af409fa7",
+    "data": [
+      {
+        "text": "I\u0027m gonna need a ",
+        "userDefined": false
+      },
+      {
+        "text": "platinum",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      },
+      {
+        "text": " account.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a472ddef-6634-46cf-a346-7eea5b8fdf6f",
+    "data": [
+      {
+        "text": "How can I get a higher tier of service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1ff126b-e64a-4775-bb78-e1cdffe01f1b",
+    "data": [
+      {
+        "text": "Can you get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "highest level",
+        "alias": "tier",
+        "meta": "@tier",
+        "userDefined": false
+      },
+      {
+        "text": " of support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

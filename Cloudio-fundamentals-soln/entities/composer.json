@@ -1,0 +1,9 @@
+{
+  "id": "8950c632-c1cc-4873-be93-606ccc29dfc4",
+  "name": "composer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
